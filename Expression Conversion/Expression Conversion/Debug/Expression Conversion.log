@@ -1,0 +1,5 @@
+﻿  ExpressionManager.cpp
+D:\Users\syndr\Desktop\Year 3\Unfinished Work\Ongoing Assignments\OOM\Expression Conversion\Expression Conversion\ExpressionManager.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+D:\Users\syndr\Desktop\Year 3\Unfinished Work\Ongoing Assignments\OOM\Expression Conversion\Expression Conversion\ExpressionManager.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+D:\Users\syndr\Desktop\Year 3\Unfinished Work\Ongoing Assignments\OOM\Expression Conversion\Expression Conversion\ExpressionManager.cpp(252,20): warning C4018: '<': signed/unsigned mismatch
+  Expression Conversion.vcxproj -> D:\Users\syndr\Desktop\Year 3\Unfinished Work\Ongoing Assignments\OOM\Expression Conversion\Debug\Expression Conversion.exe

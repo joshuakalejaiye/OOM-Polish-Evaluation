@@ -1,0 +1,3 @@
+﻿  String Reversal.cpp
+C:\Users\syndr\source\repos\String Reversal\String Reversal\Stack.h(61): warning C4715: 'Stack<char>::popWithVal': not all control paths return a value
+  String Reversal.vcxproj -> C:\Users\syndr\source\repos\String Reversal\Debug\String Reversal.exe
